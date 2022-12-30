@@ -2,6 +2,10 @@
 
 Simple PacMan-like game bootstrap to teach my kid programming.
 
+![Game Screenshot](https://github.com/gbaptista/pacman-bootstrap/blob/main/imagens/screenshot.png)
+
+## Development
+
 ```
 npm install
 
